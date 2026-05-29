@@ -9,7 +9,7 @@ Do giới hạn dung lượng file trên GitHub, file trọng số mô hình `.h
 
 ## 📂 Cấu Trúc Thư Mục Dự Án
 
-* `Flower_recognition.ipynb`: File Google Colab chứa toàn bộ mã nguồn từ xử lý dữ liệu đến huấn luyện mô hình.
+* `Flowers_recognition.ipynb`: File Google Colab chứa toàn bộ mã nguồn từ xử lý dữ liệu đến huấn luyện mô hình.
 * `test_file`: Thư mục chứa các hình ảnh hoa thực tế dùng để kiểm thử (Test).
 * `README.md`: Hướng dẫn và thông tin dự án.
 
